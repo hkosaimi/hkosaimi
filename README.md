@@ -5,10 +5,10 @@
 ![Github readme banner](https://github.com/Harsh12Codes/Harsh12Codes/assets/83909388/cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f)
 
 <h1 align="center">Hi 👋, I'm Hussain</h1>
-<h3 align="center">A computer engineering student passionate in front-end development</h3>
+<h3 align="center">A computer engineering student, passionate in front-end web development</h3>
 
 
-[![](https://visitcount.itsvg.in/api?id=lordhn&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 <br>
