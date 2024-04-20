@@ -8,7 +8,7 @@
 <h3 align="center">A computer engineering student passionate in front-end development</h3>
 
 
-[![](https://visitcount.itsvg.in/api?id=harsh12codes&icon=0&color=0)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=lordhn&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 <br>
